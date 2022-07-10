@@ -1,0 +1,3 @@
+rootProject.name='GodotToast'
+include ':app', ':godot-lib.release'
+include ':godottoast'
