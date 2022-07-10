@@ -4,8 +4,8 @@ var share = null # our share singleton instance
 
 func _ready():
 	# initialize the share singleton if it exists
-	if Engine.has_singleton("GodotShare"):
-		share = Engine.get_singleton("GodotShare")
+	if Engine.has_singleton("GodotToast"):
+		share = Engine.get_singleton("GodotToast")
 
 
 func _on_share_btn_pressed():
@@ -29,4 +29,4 @@ func _on_share_btn_pressed():
 	
 	# if share was found, use it
 	if share != null:
-		share.sharePic(image_save_path, "Image Sharing", "Sharing image with GodotShare", "It's a demo app for testing GodotShare. Do you like it?")
+		share.sharePic(image_save_path, "Image Sharing", "Sharing image with GodotToast", "It's a demo app for testing GodotToast. Do you like it?")

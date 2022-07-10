@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3MJE3M4FMJYGN&lc=BR&item_name=Shin%2dNiL%27s%20Github&item_number=Github&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted)
 
-GodotShare 
+GodotToast 
 ==========
 This is an Android share plugin for [Godot Game Engine](https://godotengine.org/) 3.2.2 or higher. With that you'll be able to share text and/or images in your apps.
 
@@ -12,8 +12,8 @@ How to use
 ----------
 
 - Configure, install  and enable the "Android Custom Template" for your project, just follow the [official documentation](https://docs.godotengine.org/en/latest/getting_started/workflow/export/android_custom_build.html);
-- go to the [releases tab](https://github.com/Shin-NiL/Godot-Android-Share-Plugin/releases), choose a version and download the respective _GodotSharePlugin-x.x.x.zip_ package;
-- extract the zip content (_GodotShare.release.aar_ and _GodotShare.gad_ files) inside the ```res://android/plugins``` directory on your Godot project;
+- go to the [releases tab](https://github.com/Shin-NiL/Godot-Android-Share-Plugin/releases), choose a version and download the respective _GodotToastPlugin-x.x.x.zip_ package;
+- extract the zip content (_GodotToast.release.aar_ and _GodotToast.gad_ files) inside the ```res://android/plugins``` directory on your Godot project;
 - on the Project -> Export -> Options, turn on the "Use Custom Build" and "Godot Share" on the "Plugins" field;
 
 ![Export options](/media/export.png "Export options")
