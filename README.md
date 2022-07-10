@@ -1,6 +1,6 @@
 GodotToast 
 ==========
-This is an Android share plugin for [Godot Game Engine](https://godotengine.org/) 3.2.2 or higher. With that you'll be able to make Toasts.
+This is an Android plugin for [Godot Game Engine](https://godotengine.org/) 3.2.2 or higher. With that you'll be able to make native android Toasts.
 
 ![Image Sharing Screenshot](/media/screenshot.png "Image Sharing Screenshot")
 
@@ -16,7 +16,5 @@ Donations
 ---------
 Was this project useful for you? Wanna make a donation?
 
-### Hamibash
-
-My [Hamibash donation link](https://hamibash.com/Sarbala_studio)
+This is my [donation link](https://hamibash.com/Sarbala_studio) on Hamibash.
 
