@@ -1,8 +1,9 @@
 GodotToast 
 ==========
 This is an Android plugin for [Godot Game Engine](https://godotengine.org/) 3.2.2 or higher. With that you'll be able to make native android Toasts.
-
+-This is a fork so special thanks to [Shin-niL](https://github.com/Shin-NiL/Godot-Android-Share-Plugin).
 ![Image Sharing Screenshot](/media/screenshot.png "Image Sharing Screenshot")
+
 
 How to use
 ----------
